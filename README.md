@@ -37,7 +37,7 @@
 
   
 ## Connect with me:
-<a href="https://linkedin.com/in/daniel-a-70028223b"><img alt="LinkedIn" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://linkedin.com/in/dan-aguirre"><img alt="LinkedIn" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 
 <!---
 Dan-Aguirre/Dan-Aguirre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
