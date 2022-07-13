@@ -27,7 +27,7 @@
 
 ## GitHub Stats:
 
-<img alt="Daniel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dan-Aguirre&custom_title=Daniel's%20Contribution%20Graph&theme=react-dark" /></a>
+<img alt="Daniel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dan-Aguirre&custom_title=Daniel's%20Public%20Contribution%20Graph&theme=react-dark" /></a>
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Aguirre&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
